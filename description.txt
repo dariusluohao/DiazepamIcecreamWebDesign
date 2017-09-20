@@ -1,0 +1,4 @@
+A front-end website for a hypothesis Diazepam Ice-cream coffee shop. 
+- Goal of business: Become the best in town
+- Website components: Homepage, Products page, shopping cart
+- Language: HTML/CSS; Bootstrap; Javascript
